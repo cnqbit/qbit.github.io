@@ -6,10 +6,10 @@
 name: qbit
 
 # Short bio or description (displayed in the header)
-description: 比特是英文 binary digit的缩写。比特是表示信息的最小单位，是二进制数的一位包含的信息或2个选项中特别指定1个的需要信息量。一般来说，n比特的信息量可以表现出2的n次方种选择。
+description: bit 是英文 binary digit的缩写。bit 是表示信息的最小单位。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://github.com/cnqbit/cnqbit.github.io/blob/master/images/easybit.jpg
+avatar: https://raw.githubusercontent.com/cnqbit/cnqbit.github.io/blob/master/images/easybit.jpg
 
 #
 # Flags below are optional
